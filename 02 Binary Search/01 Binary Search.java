@@ -2,6 +2,7 @@
 
 // time: O(logn)
 // space: O(1)
+// also used in merge sort
 
 class Solution {
     public int search(int[] nums, int target) {
